@@ -2,7 +2,7 @@
 
 Free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep pack for local businesses and the people who market them.
 
-32 skills for Claude Code, Codex, Cursor and other agents. They were built from real campaigns, and every one works without a paid tool. MIT licensed.
+33 skills for Claude Code, Codex, Cursor and other agents. They were built from real campaigns, and every one works without a paid tool. MIT licensed.
 
 Made by James Dickerson ([@boringmarketer](https://x.com/boringmarketer)). More at [boringmarketing.com](https://boringmarketing.com). Need clients to use this on? [boringfunnels.com](https://boringfunnels.com) finds local businesses losing customers (I make it). Want agents built for your team? [Work with us](https://boringmarketing.com/#work).
 
@@ -87,6 +87,7 @@ Grouped by stage, in the order a customer meets a business.
 |---|---|
 | `find-local-clients` | Picks a trade and a town, then ranks the businesses losing the most customers |
 | `pitch-the-fix` | Finds the owner and writes a short email about one thing that's broken, with a fix you can sell |
+| `pe-demand-leak-audit` | Audits three brands of a PE-backed home-services roll-up and turns the shared leaks into fixes the sponsor ships once across every brand |
 
 Every skill can keep a separate folder per client. Tell `/start-here` "new client" and it sets one up.
 

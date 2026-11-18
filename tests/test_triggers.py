@@ -46,6 +46,7 @@ REQUESTS = {
     "performance-review": ["here's my GSC export, how did it perform"],
     "find-local-clients": ["find local clients for my agency"],
     "pitch-the-fix": ["write a cold email to this roofer about what's broken"],
+    "pe-demand-leak-audit": ["audit this private equity roll-up of home services brands"],
     "social-content": ["write me a LinkedIn post"],
     "long-form-article": ["write a long article, a playbook with real numbers"],
     "content-atomizer": ["repurpose this blog post into social posts"],
